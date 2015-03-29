@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.nvidia.camera_debuginfo"
+            file="/system/framework/com.nvidia.camera_debuginfo.jar"/>
+</permissions>
+
